@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fakhri gajar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakhri gajar" height="30" width="40" /></a>
-<a href="https://fb.com/fakhri gajar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fakhri gajar" height="30" width="40" /></a>
-<a href="https://instagram.com/@faakhrii03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@faakhrii03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fakhri-gajar-bb974b273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakhri gajar" height="30" width="40" /></a>
+<a href="[https://fb.com/fakhri gajar](https://www.facebook.com/profile.php?id=100088924454057&paipv=0&eav=AfY5ybyuBB8co41evpYrK_bTgqeemQ4O5-gLsuOpfCvhFIRXOE0WxWlM4I6R_KY_yPI&_rdr)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fakhri gajar" height="30" width="40" /></a>
+<a href="https://instagram.com/faakhrii03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@faakhrii03" height="30" width="40" /></a>
 <a href="https://discord.gg/b8VarTFy95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="b8VarTFy95" height="30" width="40" /></a>
 </p>
 
