@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fakhrigajar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iN92KFksYGYfnFZ_-n73wu3GTt0xCAv4/view?usp=sharing](https://drive.google.com/file/d/1iN92KFksYGYfnFZ_-n73wu3GTt0xCAv4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1tbz-xai1sCEdLsO_epXlci5ArPCuetmW/view?usp=sharing](https://drive.google.com/file/d/1tbz-xai1sCEdLsO_epXlci5ArPCuetmW/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am creative**
 
