@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://fakhrigajar.netlify.app](https://fakhrigajar.xyz)
+- 👨‍💻 All of my projects are available at [https://fakhrigajar.xyz](https://fakhrigajar.xyz)
 
 - 📫 How to reach me **fakhrigajar@gmail.com**
 
